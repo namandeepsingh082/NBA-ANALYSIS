@@ -3,7 +3,6 @@
 🚀 **Tech Stack:**  
 - **Google BigQuery** – Data storage & SQL analysis  
 - **Looker Studio** – Interactive visualizations  
-- **LookML** – Data modeling (if applicable)  
 - **Google Cloud Platform (GCP)** – Cloud-based data processing  
 
 ## 🔍 **Project Overview**  
