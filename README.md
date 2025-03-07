@@ -75,7 +75,7 @@ LIMIT 8;
 4️⃣ **Presentation:** Share insights through interactive dashboards.  
 
 ## 📌 **Live Dashboard & Code**  
-🔗 **[Looker Studio Dashboard]((https://lookerstudio.google.com/reporting/5a58f08a-01fd-49bf-bf64-84fc8b520ca2))**  
+🔗 **[Looker Studio Dashboard](https://lookerstudio.google.com/reporting/5a58f08a-01fd-49bf-bf64-84fc8b520ca2)**  
 🔗 **[GitHub Repository](https://github.com/namandeepsingh082/NBA-ANALYSIS)**  
 
 ## 🛠 **Future Enhancements**  
