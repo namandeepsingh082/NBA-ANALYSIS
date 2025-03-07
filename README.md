@@ -77,6 +77,7 @@ LIMIT 8;
 ## 📌 **Live Dashboard & Code**  
 🔗 **[Looker Studio Dashboard](https://lookerstudio.google.com/reporting/5a58f08a-01fd-49bf-bf64-84fc8b520ca2)**  
 🔗 **[GitHub Repository](https://github.com/namandeepsingh082/NBA-ANALYSIS)**  
+![Screenshot 2025-03-08 043859](https://github.com/user-attachments/assets/e09c1be2-8924-4429-90d3-f3421551e671)
 
 ## 🛠 **Future Enhancements**  
 ✅ Add **trend analysis** for salary growth over the years.  
